@@ -1,0 +1,32 @@
+{
+    "devs":[
+        {
+            "id":1,
+            "name":"delwar"
+        },
+        {
+            "id":2,
+            "name":"delwar Hossain"
+        }
+    ],
+    "students":[
+        {
+            "id":1,
+            "name":"delwars"
+        },
+        {
+            "id":2,
+            "name":"delwar Hossains"
+        }
+    ],
+    "mens":[
+        {
+            "id":1,
+            "name":"delwarm"
+        },
+        {
+            "id":2,
+            "name":"delwar Hossainm"
+        }
+    ]
+}
